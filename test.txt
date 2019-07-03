@@ -8,3 +8,5 @@ git remote add origin git@code.wllw.me:10022/charzine/myweb.git
   git push -u origin master
 
 Creating a new branch is quick and simple. add merge.
+
+Git is a free software

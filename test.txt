@@ -4,3 +4,7 @@ git remote add origin git@code.wllw.me:10022/charzine/myweb.git
  git clone git@code.wllw.me:10022/charzine/test.git
 
  git clone git@github.com:charzine168/learngit.git
+
+  git push -u origin master
+
+  Creating a new branch is quick.
